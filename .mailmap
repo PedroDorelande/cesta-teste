@@ -1,0 +1,5 @@
+# Git Mailmap - Consolida nomes duplicados de autores
+# Formato: Nome Correto <email-correto> Nome Antigo <email-antigo>
+
+# Andrew aparece com dois nomes diferentes, consolidando para o nick do GitHub
+AndrewDevos1 <andrew.andyoo@gmail.com> Andrew <andrew.andyoo@gmail.com>

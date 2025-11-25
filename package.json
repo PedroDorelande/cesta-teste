@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "claude": "^0.1.1",
+    "dotenv": "^17.2.3"
+  }
+}
